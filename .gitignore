@@ -1,0 +1,11 @@
+# Global
+.DS_Store
+
+# Application
+web/app/vendor/
+data/
+
+# PHPStorm
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
